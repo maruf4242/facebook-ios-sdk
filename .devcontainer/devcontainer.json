@@ -1,0 +1,5 @@
+gh repo clone facebook/facebook-ios-sdk{
+  "image": "mcr.microsoft.com/devcontainers/universal:2",
+  "features": {
+  }
+}
